@@ -44,5 +44,5 @@ La API de SBRS se encuentra en [enzonotario/sbrs-api](https://github.com/enzonot
 
 La interfaz de usuario de SBRS se encuentra en [enzonotario/sbrs-client](https://github.com/enzonotario/sbrs-client)
 
-Los archivos necesarios para correr FreeLing de manera correcta se encuentran en [enzonotario/sbrs-freeling](https://github.com/enzonotario/sbrs-freeling/tree/master)
+Los archivos necesarios para correr FreeLing de manera correcta se encuentran en [enzonotario/sbrs-freeling](https://github.com/enzonotario/sbrs-freeling)
 
