@@ -38,3 +38,11 @@ Abrir otra terminal y ejecutar
 `sudo /home/enzo/solr-6.1.0/bin/solr start -e cloud -noprompt`
 
 Abrir Firefox e ingresar a http://localhost/
+
+# Repositorios
+La API de SBRS se encuentra en [enzonotario/sbrs-api](https://github.com/enzonotario/sbrs-api)
+
+La interfaz de usuario de SBRS se encuentra en [enzonotario/sbrs-client](https://github.com/enzonotario/sbrs-client)
+
+Los archivos necesarios para correr FreeLing de manera correcta se encuentran en [enzonotario/sbrs-freeling](https://github.com/enzonotario/sbrs-freeling/tree/master)
+
